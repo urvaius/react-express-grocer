@@ -1,0 +1,17 @@
+{
+  "name": "react-express-grocer",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "urvaius <urvaius@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
